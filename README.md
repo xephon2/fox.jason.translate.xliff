@@ -364,7 +364,7 @@ PATH-TO-DITA-OT/bin/dita -f xliff-translate \
 
 The XLIFF 2.1 File is auto-translated in place, with translated text as shown:
 
-> **Note:** any `<segement>` elements which are `state="final"` will not be re-translated.
+> **Note:** any `<segment>` elements which are `state="final"` will not be re-translated.
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
